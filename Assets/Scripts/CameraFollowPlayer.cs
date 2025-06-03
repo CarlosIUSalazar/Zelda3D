@@ -3,8 +3,10 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     public Transform target;
-    public Vector3 offset = new Vector3(0, 0, 0); // above and slightly behind
-    public float smoothSpeed = 5f;
+    private Vector3 offset = new Vector3(0, 3.5f, -4f);
+    private float smoothSpeed = 5f;
+    //private Vector3 offset = new Vector3(0, 1.5f, -3f);
+    //private float smoothSpeed = 8f;
 
     void LateUpdate()
     {
