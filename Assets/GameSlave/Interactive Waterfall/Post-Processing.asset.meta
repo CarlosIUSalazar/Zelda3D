@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f89e704f44fe78840a2aab0caac1d6f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320101
+  packageName: Stylized interactive water
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Interactive Waterfall/Post-Processing.asset
+  uploadId: 756794

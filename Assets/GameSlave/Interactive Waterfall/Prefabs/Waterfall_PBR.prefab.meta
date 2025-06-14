@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cab6646407d1dd24bbfb81c91644e0e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320101
+  packageName: Stylized interactive water
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Interactive Waterfall/Prefabs/Waterfall_PBR.prefab
+  uploadId: 756794

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb909f76c745b624b82abd51b6393fbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320101
+  packageName: Stylized interactive water
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Interactive Waterfall/Materials/River_PBR.mat
+  uploadId: 756794
